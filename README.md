@@ -2,6 +2,10 @@
 A machine Learning Project specifically made for the neonates(new-born babies) to detect the jaundice by predicting the bilirubin value using ML model.
 <br> App Link: https://neonatal-jaundice-detection.onrender.com/
 
+### Contributors
+`Anirudh Bhakar`<a href= "https://www.linkedin.com/in/anirudh-bhakar/">🔗</a>
+`Yash Vardhan Gautam`<a href= "https://www.linkedin.com/in/yash-vardhan-gautam-794837198/">🔗</a>
+
 ## Introduction
 Neonatal Jaundice or Hyperbilirubinemia is a prevalent condition that causes yellow discoloration of a new-borns,
 in the first few weeks. The leading cause of jaundice is the
@@ -69,7 +73,3 @@ bilirubin level is > 15 mg dL−1 for the new-born babies.
 #### **Remarks**
 
 Our model acheived an **accuracy of 85%** on the test data and we are trying to increase that accuracy by increasing our dataset as currently our dataset is less. 
-
-### Contributors
-<a href= "https://www.linkedin.com/in/anirudh-bhakar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href= "https://www.linkedin.com/in/yash-vardhan-gautam-794837198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
