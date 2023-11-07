@@ -69,3 +69,7 @@ bilirubin level is > 15 mg dL−1 for the new-born babies.
 #### **Remarks**
 
 Our model acheived an **accuracy of 85%** on the test data and we are trying to increase that accuracy by increasing our dataset as currently our dataset is less. 
+
+### Contributors
+<a href= "https://www.linkedin.com/in/anirudh-bhakar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href= "https://www.linkedin.com/in/yash-vardhan-gautam-794837198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
